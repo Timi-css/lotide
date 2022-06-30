@@ -14,5 +14,8 @@
   "devDependencies": {
     "chai": "^4.3.6",
     "mocha": "^10.0.0"
+  },
+  "dependencies": {
+    "@timialabi/my-test-package": "^1.0.0"
   }
 }
