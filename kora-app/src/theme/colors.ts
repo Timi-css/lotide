@@ -1,0 +1,18 @@
+export const colors = {
+  background: '#faf7f2',
+  surface: '#ffffff',
+  surfaceMuted: '#faf7f2',
+  primary: '#33b4a9',
+  primaryTint: '#e5f5f2',
+  accent: '#ed6823',
+  textPrimary: '#141010',
+  textSecondary: '#8c8785',
+  navInactive: '#b0a090',
+  border: '#8c8785',
+  overlay: 'rgba(0,0,0,0.45)',
+  danger: '#c14343',
+  homeTileFeed: '#33b4a9',
+  homeTileDiaper: '#ed6823',
+  homeTileGrowth: '#24333d',
+  homeTileAppointments: '#d49e33',
+} as const;
