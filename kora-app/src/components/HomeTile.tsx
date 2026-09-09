@@ -31,8 +31,7 @@ export function HomeTile({ label, icon, color, onPress }: HomeTileProps) {
 
 const styles = StyleSheet.create({
   tile: {
-    flexBasis: '47%',
-    aspectRatio: 1,
+    flex: 1,
     borderRadius: radii.lg,
     padding: spacing.md,
     justifyContent: 'space-between',
